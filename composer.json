@@ -1,11 +1,8 @@
 {
-  "name": "spinen/laravel-quickbooks-client",
-  "description": "SPINEN's Laravel Client for QuickBooks.",
+  "name": "ysufmv/lara-qb",
+  "description": "SPINEN's Laravel Client - mods",
   "keywords": [
-    "quickbooks",
     "client",
-    "laravel",
-    "spinen"
   ],
   "license": "MIT",
   "authors": [
